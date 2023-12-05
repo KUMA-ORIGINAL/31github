@@ -4,5 +4,8 @@
 # print(s)
 # print(s)
 
-a = sum(map(int, input('Введите числа через запятую: ').split(','))))
-print(f'сумма чисел через запятую: {a}')
+# a = sum(map(int, input('Введите числа через запятую: ').split(','))))
+# print(f'сумма чисел через запятую: {a}')
+
+while True:
+  print('Usta Soft number one')
