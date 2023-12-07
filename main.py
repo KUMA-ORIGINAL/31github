@@ -10,3 +10,5 @@
 while True:
   print('Usta Soft number one')
   print('Usta Soft number one')
+  print('Usta Soft number one')
+  print('Usta Soft number one')
