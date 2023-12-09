@@ -14,3 +14,9 @@ while True:
   print('Usta Soft number one')
 for i in range(123):
   print(i)
+
+def sum_(a, b):
+  return a + b
+
+result = sum_(1, 10)
+print(result)
