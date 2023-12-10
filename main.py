@@ -7,16 +7,21 @@
 # a = sum(map(int, input('Введите числа через запятую: ').split(','))))
 # print(f'сумма чисел через запятую: {a}')
 
-while True:
-  print('Usta Soft number one')
-  print('Usta Soft number one')
-  print('Usta Soft number one')
-  print('Usta Soft number one')
-for i in range(123):
-  print(i)
+# while True:
+#   print('Usta Soft number one')
+#   print('Usta Soft number one')
+#   print('Usta Soft number one')
+#   print('Usta Soft number one')
+# for i in range(123):
+#   print(i)
 
-def sum_(a, b):
-  return a + b
+# def sum_(a, b):
+#   return a + b
 
-result = sum_(1, 10)
-print(result)
+# result = sum_(1, 10)
+# # print(result)
+# a = {'name': stiv, 'age': 20}
+# print(a.keys())
+
+
+
