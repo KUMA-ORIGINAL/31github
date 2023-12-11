@@ -23,5 +23,17 @@
 # a = {'name': stiv, 'age': 20}
 # print(a.keys())
 
+class Person:
+  def __init__(self, name, age):
+    self.age = age
+    self.name = name
+  
+  def info(self):
+    return f'{name}, {age}'
+
+stiv = Person('Stiv', 39)
+print(stiv.info())
+
+      
 
 
