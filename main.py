@@ -31,8 +31,12 @@ class Person:
   def info(self):
     return f'{name}, {age}'
 
-stiv = Person('Stiv', 39)
-print(stiv.info())
+class Teacher(Person):
+  def __init__(self, name, age):
+    super().__init__(name, age)
+
+# stiv = Person('Stiv', 39)
+# print(stiv.info())
 
       
 
