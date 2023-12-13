@@ -23,20 +23,22 @@
 # a = {'name': stiv, 'age': 20}
 # print(a.keys())
 
-class Person:
-  def __init__(self, name, age):
-    self.age = age
-    self.name = name
+# class Person:
+#   def __init__(self, name, age):
+#     self.age = age
+#     self.name = name
   
-  def info(self):
-    return f'{name}, {age}'
+#   def info(self):
+#     return f'{name}, {age}'
 
-class Teacher(Person):
-  def __init__(self, name, age):
-    super().__init__(name, age)
+# class Teacher(Person):
+#   def __init__(self, name, age):
+#     super().__init__(name, age)
 
 # stiv = Person('Stiv', 39)
 # print(stiv.info())
+
+print(set([1, 123, 123,]))
 
       
 
