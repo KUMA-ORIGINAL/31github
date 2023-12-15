@@ -40,11 +40,12 @@
 
 print(set([1, 123, 123,]))
 
-try:
-  k = 1 / 0
-except ZeroDivisionError:
-  k = 0
-print(k)
-      
+# try:
+#   k = 1 / 0
+# except ZeroDivisionError:
+#   k = 0
+# print(k)
+
+print('sdfsdfsdf')
 
 
