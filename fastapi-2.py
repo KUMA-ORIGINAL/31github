@@ -76,3 +76,5 @@ def add_trades(trades: List[Trade]):
     return {"status": 200, "data": fake_trades}
 
 print('че та')
+print('че та 2')
+
