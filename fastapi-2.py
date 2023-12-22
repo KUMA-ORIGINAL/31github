@@ -78,4 +78,5 @@ def add_trades(trades: List[Trade]):
 print('че та')
 print('че та 2')
 print('че та 3')
+print('че та 4')
 
