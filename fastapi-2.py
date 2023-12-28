@@ -77,3 +77,4 @@ def add_trades(trades: List[Trade]):
 
 print(123, 123)
 print(123, 123)
+print(123, 123)
