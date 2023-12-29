@@ -76,5 +76,3 @@ def add_trades(trades: List[Trade]):
     return {"status": 200, "data": fake_trades}
 
 print(123, 123)
-print(123, 123)
-print(123, 123)
